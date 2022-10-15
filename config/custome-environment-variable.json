@@ -1,0 +1,18 @@
+{
+    "DBConfig": {
+        "host": "localhost",
+        "port": "27017",
+        "database": "whyDonate",
+        "username": "root",
+        "password": "Root@123"
+    },
+    "TwilioConfig" : {
+        "accountSid": "TWILIO_ACCOUNT_SID",
+        "authToken": "TWILIO_AUTH_TOKEN",
+        "twilioFromContact":"TWILIO_FROM_CONTACT"
+    },
+    "EmailConfig": {
+        "adminEmail":"ADMIN_EMAIL",
+        "adminPassword": "ADMIN_PASSWORD"
+    }
+}
